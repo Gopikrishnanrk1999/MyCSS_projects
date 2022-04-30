@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&display=swap');
+body{
+      background-image: url(./images/Banana\ leaf.jpg);
+      background-size: cover;
+}
+.main{
+height: 725px;
+width: 96%;
+/* border: red solid 2px; */
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+font-family: 'Fredoka', sans-serif;
+color: white;
+text-align: center;
+}
+.food{
+    width: 23%;
+    height: 600px;
+    border: solid 2px;
+    /* background-color: white; */
+    border-radius: 2%;
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0), 0 4px 8px 0 rgba(0, 0, 0, 0.438);
+    }
+.food:hover
+{
+    color: black;
+    background-color: rgba(255, 255, 255, 0.356);
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: left;
+}
+
+img{
+    height: 230px;
+    width: 95%;
+    
+}
+button{
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0), 0 6px 20px 0 rgba(255, 255, 255, 0.192);
+    margin: 5% 0;
+    
+}   
+button:hover{
+    background-color: black;
+    color: white;
+}
+.f2 {
+    padding: .2%;
+}
+.f3 {
+    padding: .2%;
+}
+.f3 button{
+margin:23% 0;
+}
+.f4 {
+    padding: .2%;
+}
+.f4 button{
+    margin: 0% 0 ;
+}

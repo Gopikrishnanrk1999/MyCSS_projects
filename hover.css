@@ -1,0 +1,23 @@
+button{
+    height: 80px;
+    width: 15%;
+    background-color: white;
+    color: black;
+
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+h1{
+    color: rgb(112, 0, 0);
+}
+span{
+    color: darkblue;
+}
+body{
+    background-image: url(./images/dF5SId3UHWd.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

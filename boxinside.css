@@ -1,0 +1,13 @@
+div{
+    height: 500px;
+    width: 800px;
+    background-color: antiquewhite;
+    /* alignment inside box; */
+    /* by changing individually */
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    /* the four padding is equal to */
+    padding: 50px;
+}

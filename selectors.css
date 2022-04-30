@@ -1,0 +1,32 @@
+/* selectors */
+/* tag selectors */
+/* id selector */
+/* class selector */
+/* --------------- */
+/* text alignment */
+h1{
+    color: blue; background-color: chartreuse;
+
+}
+#d1{
+    color:burlywood
+}
+.c1{
+    color: crimson;
+}
+.c2{
+   background-color: black;
+}
+.c3{
+    text-align: left;
+    background-color:darkmagenta
+}
+div{
+    text-align: right;
+    color: blueviolet; background-color: cornsilk;
+}
+#d5{ 
+    text-align: center;
+    color: azure;
+    background-color: black;
+}

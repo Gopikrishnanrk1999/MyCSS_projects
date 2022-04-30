@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=League+Gothic&display=swap');
+body{
+    background-color: black;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'League Gothic', sans-serif;
+}
+#d1{
+    margin-left: -650px;
+    margin-top: 100px;
+}
+.c{
+    background-color: aliceblue;
+    width: 140px ;
+    height: 200px;
+}
+.c0{ background-color:antiquewhite;
+    margin-left: 440px;
+    margin-top: 140px;
+    
+}
+.c1{
+    background-color:aqua ;
+    margin-left: 585px;
+    margin-top: -200px;
+   
+}
+.c2{
+    background-color:aquamarine;
+    margin-left: 730px;
+    margin-top: -200px;
+}
+.c3{
+    background-color:azure;
+    margin-left: 875px;
+    margin-top: -200px
+}
+.c4{
+    background-color:beige;
+    margin-left: 1020px;
+    margin-top: -200px;
+}
+.c5{
+    background-color:bisque ;
+    margin-left: 150px;
+    margin-top: 264px;
+}
+.c6{
+    background-color:blue;
+    margin-left: 295px;
+    margin-top: -200px;
+}
+.c7{
+    background-color:blueviolet;
+    margin-left: 440px;
+    margin-top: -200px;
+}
+.c8{
+    background-color:brown ;
+    margin-left: 586px;
+    margin-top: -200px;
+}
+.c9{
+    background-color:burlywood;
+    margin-left: 731px;
+    margin-top: -200px;
+}
+.c10{
+    background-color:cadetblue;
+    margin-left:876px;
+    margin-top: -200px;
+}
+.c11{
+    background-color:chartreuse;
+    margin-left: 1021px;
+    margin-top: -200px;
+}
+.c12{
+    background-color:chocolate;
+    margin-left: 1166px;
+    margin-top: -200px;
+}
+.c13
+{
+    background-color: cornflowerblue;
+    margin-left: 1311px;
+    margin-top: -200px;
+}
+.c14{
+    background-color: crimson;
+    margin-left: 295px;
+    margin-top: -435px;
+}
+.c15{
+    background-color: cyan;
+    margin-left: 441px;
+    margin-top: -200px;
+}
+.c16{
+    background-color: darkblue;
+    margin-left: 586px;
+    margin-top: -200px;
+}
+.c17{
+    background-color: darkgoldenrod;
+    margin-left: 731px;
+    margin-top: -200px;
+}
+.c18{
+    background-color: darkgreen;
+    margin-left: 876px;
+    margin-top: -200px;
+}
+.c19{
+    background-color: darkkhaki;
+    margin-left: 1021px;
+    margin-top: -200px;
+}
+.c20{
+    background-color: darkorchid;
+    margin-left: 1167px;
+    margin-top: -200px;
+}

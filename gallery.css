@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&family=Sansita+Swashed:wght@300&family=Smooch+Sans:wght@300&display=swap');
+div{
+    background-color: white;
+    /* assigned width to percentage so that the box will adjust according to screen size  */
+    width: 22%;
+    height: 50%;
+    float: left;
+    border: solid 1px crimson;
+    font-family: 'Sansita Swashed', cursive;
+    margin-left: 30px;
+    padding: 5px;
+}
+img{
+    align-items: baseline;
+    width: 90%;
+    height: 50%;
+}
+
